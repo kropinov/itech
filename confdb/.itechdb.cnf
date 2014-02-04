@@ -1,0 +1,5 @@
+[client]
+database = itechdb
+user = itech
+password = itech
+default-character-set = utf8
